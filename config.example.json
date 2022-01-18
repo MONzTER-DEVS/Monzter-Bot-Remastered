@@ -1,0 +1,15 @@
+{
+    "clientToken" : "",
+    "ApplicationId" : "",
+    "PublicKey" : "",
+    "guildId" : "",
+    "prefix" : "--",
+    "dogApiUrl" : "https://dog.ceo/api/breeds/image/random",
+    "foxApiUrl" : "https://randomfox.ca/floof/",
+    "ipApiUrl" : "http://ip-api.com/json/",
+    "weatherApiBaseUrl": "https://api.openweathermap.org/data/2.5/weather",
+    "weatherApiKey" : "",
+    "jokeApi" : "https://v2.jokeapi.dev/joke/Any",
+    "quoteApi" : "https://api.quotable.io/random",
+    "memeApi" : "https://meme-api.herokuapp.com/gimme/"
+}
